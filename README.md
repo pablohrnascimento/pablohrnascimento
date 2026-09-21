@@ -31,7 +31,7 @@ Sou desenvolvedor fullstack e divido meu tempo entre o trabalho na CSU Digital, 
 
 ### Projetos em destaque
 
-- **[NAVIS](https://github.com/PlataformaNavis/pag_navegantes)**: plataforma de geolocalização e segurança que ajuda a traçar rotas mais rápidas e seguras. Atuei no marketing e no front-end, desenvolvendo em React a página da comunidade, com feed de posts, comentários e conquistas.
+- **[NAVIS](https://github.com/PlataformaNavis/site-navis)**: plataforma de geolocalização e segurança que ajuda a traçar rotas mais rápidas e seguras. Atuei no marketing e no front-end, desenvolvendo em React a [página da comunidade](https://github.com/PlataformaNavis/pag_navegantes), com feed de posts, comentários e conquistas.
 - **The Fall of the Farm**: tower defense no estilo *Plants vs. Zombies*, em que um fazendeiro defende sua fazenda de alimentos geneticamente modificados. Desenvolvido em equipe com Unity e C#; atuei como Tech Lead, conduzindo as decisões de arquitetura e o versionamento do projeto.
 - **Theolo** *(repositório privado)*: plataforma de estudo bíblico assistida por IA, para web e Android. Atuo como desenvolvedor fullstack com React, TypeScript, Capacitor, Prisma/PostgreSQL e integração com a API Gemini.
 - **[La Evolui](https://app.laevolui.education/)** *(código privado)*: plataforma de cursos corporativos multiempresa que desenvolvi sozinho, com API em NestJS + Prisma/PostgreSQL, controle de acesso por papéis, convites de colaboradores e trilhas gamificadas, e front-end em Next.js.
