@@ -1,4 +1,4 @@
-# Pablo Ramos <!-- CONFIRMAR: nome de exibição (GitHub: "Pablo Ramos"; LinkedIn/e-mail: "Nascimento") -->
+# Pablo Nascimento
 
 **Desenvolvedor de Software · Aprendiz de Tecnologia na CSU Digital · Análise e Desenvolvimento de Sistemas na Fatec**
 
@@ -32,9 +32,9 @@ Sou desenvolvedor fullstack e divido meu tempo entre o trabalho na CSU Digital, 
 ### Projetos em destaque
 
 - **[NAVIS](https://github.com/PlataformaNavis/pag_navegantes)**: plataforma de geolocalização e segurança que ajuda a traçar rotas mais rápidas e seguras. Atuei no marketing e no front-end, desenvolvendo em React a página da comunidade, com feed de posts, comentários e conquistas.
-- **The Fall of the Farm**: jogo desenvolvido em equipe com Unity e C#, no qual atuei como Tech Lead, conduzindo decisões de arquitetura e o fluxo de trabalho com Git Flow. <!-- CONFIRMAR: Git Flow foi usado nesse projeto? Resumo do gênero/proposta do jogo -->
+- **The Fall of the Farm**: tower defense no estilo *Plants vs. Zombies*, em que um fazendeiro defende sua fazenda de alimentos geneticamente modificados. Desenvolvido em equipe com Unity e C#; atuei como Tech Lead, conduzindo as decisões de arquitetura. <!-- CONFIRMAR: o fluxo com Git Flow foi usado neste projeto? Se sim, pode ser citado aqui -->
 - **Theolo** *(repositório privado)*: plataforma de estudo bíblico assistida por IA, para web e Android. Atuo como desenvolvedor fullstack com React, TypeScript, Capacitor, Prisma/PostgreSQL e integração com a API Gemini.
-- **La Evolui** *(repositório privado)*: plataforma de cursos corporativos multiempresa, com API em NestJS + Prisma/PostgreSQL, controle de acesso por papéis, convites de colaboradores e trilhas gamificadas, e front-end em Next.js. <!-- CONFIRMAR: posso citar o nome "La Evolui"? Fui o único desenvolvedor? -->
+- **La Evolui** *(repositório privado)*: plataforma de cursos corporativos multiempresa que desenvolvi sozinho, com API em NestJS + Prisma/PostgreSQL, controle de acesso por papéis, convites de colaboradores e trilhas gamificadas, e front-end em Next.js.
 - **[Marketly](https://github.com/pablohenrique2210/Marketly-site)**: landing page desenvolvida como freelance em React + Vite.
 
 ### Foco atual
