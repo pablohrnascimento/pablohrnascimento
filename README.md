@@ -35,7 +35,7 @@ Sou desenvolvedor fullstack e divido meu tempo entre o trabalho na CSU Digital, 
 - **The Fall of the Farm**: tower defense no estilo *Plants vs. Zombies*, em que um fazendeiro defende sua fazenda de alimentos geneticamente modificados. Desenvolvido em equipe com Unity e C#; atuei como Tech Lead, conduzindo as decisões de arquitetura e o versionamento do projeto.
 - **Theolo** *(repositório privado)*: plataforma de estudo bíblico assistida por IA, para web e Android. Atuo como desenvolvedor fullstack com React, TypeScript, Capacitor, Prisma/PostgreSQL e integração com a API Gemini.
 - **[La Evolui](https://app.laevolui.education/)** *(código privado)*: plataforma de cursos corporativos multiempresa que desenvolvi sozinho, com API em NestJS + Prisma/PostgreSQL, controle de acesso por papéis, convites de colaboradores e trilhas gamificadas, e front-end em Next.js.
-- **[Marketly](https://github.com/pablohenrique2210/Marketly-site)**: landing page desenvolvida como freelance em React + Vite.
+- **[Marketly](https://github.com/pablohrnascimento/Marketly-site)**: landing page desenvolvida como freelance em React + Vite ([ver online](https://pablohrnascimento.github.io/Marketly-site/)).
 
 ### Foco atual
 
@@ -44,5 +44,5 @@ Aprofundando em arquitetura de software e no design de APIs com NestJS, Prisma e
 ### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1f2937?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablohrnascimento/)
-[![Mapa de Carreira](https://img.shields.io/badge/Mapa_de_Carreira-1f2937?style=flat-square&logo=githubpages&logoColor=white)](https://pablohenrique2210.github.io/Mapa-de-Carreira/)
+[![Mapa de Carreira](https://img.shields.io/badge/Mapa_de_Carreira-1f2937?style=flat-square&logo=githubpages&logoColor=white)](https://pablohrnascimento.github.io/Mapa-de-Carreira/)
 [![E-mail](https://img.shields.io/badge/E--mail-1f2937?style=flat-square&logo=gmail&logoColor=white)](mailto:pablo.nascimento.dev@gmail.com)
